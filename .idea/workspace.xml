@@ -34,19 +34,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConsumerApp.executor": "Run",
+    "Application.ForEachApp.executor": "Run",
     "Application.FunctionApp.executor": "Run",
+    "Application.MapForEachApp.executor": "Run",
     "Application.MethodReferenceApp.executor": "Run",
     "Application.PredicateApp.executor": "Run",
+    "Application.RemoveIfApp.executor": "Run",
     "Application.SupplierApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/ProgrammingBebas/JavaProgramming/belajar-java-lambda"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MethodReferenceApp">
-    <configuration name="ConsumerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.ConsumerApp" />
+  <component name="RunManager" selected="Application.MapForEachApp">
+    <configuration name="ForEachApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.ForEachApp" />
       <module name="belajar-java-lambda" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.FunctionApp" />
+    <configuration name="MapForEachApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.MapForEachApp" />
       <module name="belajar-java-lambda" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.PredicateApp" />
+    <configuration name="RemoveIfApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.RemoveIfApp" />
       <module name="belajar-java-lambda" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapForEachApp" />
+        <item itemvalue="Application.RemoveIfApp" />
+        <item itemvalue="Application.ForEachApp" />
         <item itemvalue="Application.MethodReferenceApp" />
         <item itemvalue="Application.SupplierApp" />
-        <item itemvalue="Application.PredicateApp" />
-        <item itemvalue="Application.FunctionApp" />
-        <item itemvalue="Application.ConsumerApp" />
       </list>
     </recent_temporary>
   </component>
